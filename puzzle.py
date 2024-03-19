@@ -83,7 +83,7 @@ knowledge2 = And(
         ))
     )
 )
-
+ 
 # Puzzle 3
 # A says either "I am a knight." or "I am a knave.", but you don't know which.
 # B says "A said 'I am a knave'."
