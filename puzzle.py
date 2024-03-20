@@ -22,7 +22,7 @@ base = And(
         And(CKnight, Not(CKnave)),
         And(Not(CKnight), CKnave)
     )
-)
+) 
 
 # Puzzle 0
 # A says "I am both a knight and a knave."
